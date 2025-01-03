@@ -1,2 +1,2 @@
 # MA-IE
-MA-IE final project live coding assets
+Code and documentation done for my Masters in Internet Equalities at UAL Creative Computing Institute
